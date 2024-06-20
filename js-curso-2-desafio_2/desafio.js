@@ -1,4 +1,4 @@
-/*function titulo() {
+function titulo() {
     console.log('Olá, mundo!');
 }
 titulo();
@@ -29,7 +29,7 @@ function encontrarMaior(a, b) {
     return a > b ? a : b;
 }
 let exibirMaior = encontrarMaior(23, 11);
-console.log(exibirMaior);*/
+console.log(exibirMaior);
 
 function multiplicacao(numeroAMultiplicar) {
     return numeroAMultiplicar * numeroAMultiplicar;
